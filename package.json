@@ -1,5 +1,4 @@
 {
-  "homepage": "https://Shashkov-test.github.io/marveltest.github.io",
   "name": "marvel",
   "version": "0.1.0",
   "private": true,
@@ -8,11 +7,17 @@
     "@testing-library/react": "^11.1.0",
     "@testing-library/user-event": "^12.1.10",
     "debug": "^4.3.4",
+    "formik": "^2.2.9",
     "prop-types": "^15.8.1",
-    "react": "^17.0.2",
-    "react-dom": "^17.0.2",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0",
+    "react-helmet": "^6.1.0",
+    "react-router-dom": "^6.3.0",
     "react-scripts": "4.0.3",
-    "web-vitals": "^1.0.1"
+    "react-simple-animate": "^3.5.2",
+    "react-transition-group": "^4.4.5",
+    "web-vitals": "^1.0.1",
+    "yup": "^1.0.2"
   },
   "scripts": {
     "predeploy": "npm run build",
